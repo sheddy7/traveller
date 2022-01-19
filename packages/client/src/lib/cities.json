@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "London",
+    "country": "United Kingdom",
+    "visited": true,
+    "wishlist": true
+  },
+  {
+    "id": 14,
+    "name": "Barcelona",
+    "country": "Spain",
+    "visited": true,
+    "wishlist": true
+  },
+  {
+    "id": 163,
+    "name": "Thessaloniki",
+    "country": "Greece",
+    "visited": true,
+    "wishlist": false
+  },
+  {
+    "id": 326,
+    "name": "Badalona",
+    "country": "Spain",
+    "visited": false,
+    "wishlist": false
+  }
+]
